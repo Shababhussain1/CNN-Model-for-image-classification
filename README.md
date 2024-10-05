@@ -1,0 +1,1 @@
+This project aims to build a Convolutional Neural Network (CNN) to classify images from the SVHN dataset. The dataset contains 99289 images categorized into 10. CNNs are particularly well-suited for image classification due to their ability to capture spatial hierarchies in images.
